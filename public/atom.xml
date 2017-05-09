@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>以梦为马</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://smartliby.github.io/"/>
+  <updated>2017-05-07T16:49:48.685Z</updated>
+  <id>https://smartliby.github.io/</id>
+  
+  <author>
+    <name>James Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://smartliby.github.io/2017/05/08/test/"/>
+    <id>https://smartliby.github.io/2017/05/08/test/</id>
+    <published>2017-05-07T16:49:48.000Z</published>
+    <updated>2017-05-07T16:49:48.685Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
